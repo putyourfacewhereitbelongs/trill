@@ -1,0 +1,7 @@
+{
+  "name": "Trill AI",
+  "description": "Unrestricted creative writing assistant, high-speed code generator, live speech translation, and camera vision intelligence by Brian Cross.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
